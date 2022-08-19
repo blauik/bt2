@@ -18,7 +18,6 @@ staticserver0:
     #   - curl otherthing
 
     # build your application
-    build:
       - npm i
       - npm run build
 
